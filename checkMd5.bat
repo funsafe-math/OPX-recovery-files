@@ -1,0 +1,1 @@
+md5sum.exe -c md5sum.md5 > log.txt
